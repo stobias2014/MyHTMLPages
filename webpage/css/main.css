@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	padding: 10px;
+	text-decoration: underline;
+}
+
+#nav {
+	background: lightgray;
+	overflow: auto;
+}
+
+#nav li {
+	float: left;
+	padding: 30px;
+}
+
+#nav li:hover {
+	background: gray;
+}

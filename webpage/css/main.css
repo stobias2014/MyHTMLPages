@@ -10,8 +10,9 @@ h1 {
 }
 
 #nav li {
-	float: left;
+	float: right;
 	padding: 30px;
+	list-style: none;
 }
 
 #nav li:hover {
